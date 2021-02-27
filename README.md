@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yun-SeungHwan&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
 
 
