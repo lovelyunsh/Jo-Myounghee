@@ -1,5 +1,5 @@
 <p>
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=Myounghee%20Jo&fontSize=85&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=SeungHwan%20Yun&fontSize=85&animation=twinkling" />
 </p>
 
 
