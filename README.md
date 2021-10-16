@@ -25,7 +25,7 @@
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
 
-  <a href="https://lovelyunsh.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-E94F20?style=flat-square&logo=Talend&logoColor=white&link=https://lovelyunsh.tistory.com/"/></a>&nbsp
+  <a href="https://lovelyunsh.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-E94F20?style=flat-square&logo=Talend&logoColor=white&link=https://lovelyunsh.tistory.com/"/></a> &nbsp
 
   <a href="mailto:developeryunsh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=developeryunsh@gmail.com"/></a>
 </p>
